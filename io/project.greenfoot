@@ -1,0 +1,23 @@
+#Greenfoot properties
+#Thu Apr 11 08:34:08 ICT 2019
+class.win.superclass=greenfoot.Actor
+class.bread.image=bread.png
+project.charset=UTF-8
+mainWindow.height=600
+class.lose.superclass=greenfoot.Actor
+version=3.0.0
+class.win.image=skull.png
+class.bomb.image=bomb.png
+class.bread.superclass=greenfoot.Actor
+class.ol.superclass=greenfoot.Actor
+class.score.superclass=greenfoot.Actor
+world.lastInstantiated=background
+class.MyWorld.superclass=greenfoot.World
+class.background.superclass=greenfoot.World
+mainWindow.y=40
+mainWindow.x=40
+class.ol.image=fly.png
+class.lose.image=minioni.jpeg
+mainWindow.width=850
+class.background.image=bluerock.jpg
+class.bomb.superclass=greenfoot.Actor
